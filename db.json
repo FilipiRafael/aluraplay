@@ -62,6 +62,20 @@
       "url": "https://www.youtube.com/embed/z43rcfjXOxU",
       "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
       "id": 9
+    },
+    {
+      "titulo": "Doing.Dev | Filipi Rafael",
+      "descricao": "1 mil visualizações",
+      "url": "https://www.youtube.com/embed/qdbIErGDHzI",
+      "imagem": "https://github.com/filipirafael.png",
+      "id": 10
+    },
+    {
+      "titulo": "ME TORNEI UMA GITHUB STAR! - Unboxing do que recebi desse programa incrível",
+      "descricao": "6 mil visualizações",
+      "url": "https://www.youtube.com/embed/akNgUmMLmoo",
+      "imagem": "https://topofmindderh.com.br/wp-content/uploads/2022/06/Como-a-Alura-Para-Empresas-apoia-organizacoes-no-desenvolvimento-tech-1536x864.png",
+      "id": 11
     }
   ]
 }
